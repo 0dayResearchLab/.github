@@ -1,5 +1,5 @@
 ## Our Goal and Vision
-I aim to study vulnerabilities in Windows Kernel Drivers and actively contribute to Windows Kernel Security by identifying and addressing vulnerabilities.
+We aim to contribute to **Windows Kernel Security** by identifying and addressing vulnerabilities.
 
 ## Our Team Site and Overview
 [Team Site](https://today-0day.gitbook.io/docs_kor/)
